@@ -32,8 +32,8 @@ Meta: Entender lógica + criar projetos simples e significativos
 |----------------------------|--------|----------------------------------------|
 | Olá, mundo!               | ✅     | Primeiro print inesquecível            |
 | Calculadora simples        | 🔜     | Soma, subtração e muito orgulho         |
-| Desafios de lógica         | 🔜     | Resoluções comentadas com carinho       |
-| Mini diário de estudos     | 🔜     | Meu código com reflexões sobre o dia    |
+| Desafios de lógica         | ✅     | Resoluções comentadas com carinho       |
+| Mini diário de estudos     | ✅     | Meu código com reflexões sobre a semana    |
 
 ---
 
