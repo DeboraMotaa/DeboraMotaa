@@ -20,8 +20,8 @@
 
 ```bash
 Curso: Python para Iniciantes
-Status: Módulo 2 de 3
-Meta: Dominar estrutura de condicionais e de repetição + controle
+Status: Mundo 2 de 3
+Meta: Dominar estruturas condicionais e de repetição + controle
 ```
 
 ---
