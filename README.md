@@ -20,8 +20,8 @@
 
 ```bash
 Curso: Python para Iniciantes
-Status: Módulo 1 de 3
-Meta: Entender lógica + criar projetos simples e significativos
+Status: Módulo 2 de 3
+Meta: Dominar estrutura de condicionais e de repetição + controle
 ```
 
 ---
@@ -31,7 +31,7 @@ Meta: Entender lógica + criar projetos simples e significativos
 | Projeto                     | Status | Descrição breve                         |
 |----------------------------|--------|----------------------------------------|
 | Olá, mundo!               | ✅     | Primeiro print inesquecível            |
-| Calculadora simples        | 🔜     | Soma, subtração e muito orgulho         |
+| Calculadora simples        | ✅     | Soma, subtração e muito orgulho         |
 | Desafios de lógica         | ✅     | Resoluções comentadas com carinho       |
 | Mini diário de estudos     | ✅     | Meu código com reflexões sobre a semana    |
 
